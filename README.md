@@ -13,7 +13,7 @@ Atualmente é utilizada uma planilha em Excel para registrar as informações de
 
 ## Missão
 
-Desenvolver um **Site** de divulgação para que os clientes respondam a pesquisa de satisfação e um **Painel Adminstrativo** que controle o recebimento das notas.
+Desenvolver um **Site** de divulgação para que os clientes respondam a pesquisa de satisfação e um **Painel Adminstrativo** (não obrigatório) que controle o recebimento das notas.
 
 ## Escolha o tamanho do seu desafio
 - **Mínimo**
@@ -21,7 +21,7 @@ Desenvolver um **Site** de divulgação para que os clientes respondam a pesquis
 - **Recomendável**
   - Aplicação responsiva
   - Validação das regras da aplicação no frontend e no backend
-- **Avançado**
+- **Avançado** (não obrigatório)
   - Autenticação dos usuários adminstrativos (login)
   - Permissões para os usuários adminstrativos  
   - Cuidados com a segurança das informações
