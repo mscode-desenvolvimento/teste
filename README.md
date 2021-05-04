@@ -6,7 +6,7 @@ Quando finalizar o teste, publique tudo no seu [Github](https://github.com) ou e
 
 ## Escopo do projeto
 
-Supundo uma situação hipotética, a Móveis Simonetti precisa encontrar uma forma de verificar a satisfação dos seus clientes e mensalmente é realizada uma pesquisa com 10% deles para verificar a satisfação em relação a empresa.
+Em uma situação hipotética, a Móveis Simonetti precisa encontrar uma forma de verificar a satisfação dos seus clientes e mensalmente é realizada uma pesquisa com 10% deles para verificar a satisfação em relação a empresa.
 
 Atualmente é utilizada uma planilha em Excel para registrar as informações desta pesquisa, e a utilização de um software e um site de divulgação ajudará muito nesta tarefa. 
 
