@@ -13,19 +13,14 @@ Atualmente é utilizada uma planilha em Excel para registrar as informações de
 
 ## Missão
 
-Desenvolver um **Site** de divulgação para que os clientes respondam a pesquisa de satisfação e um **Painel Adminstrativo** (não obrigatório) que controle o recebimento das notas.
+Desenvolver um **Site** de divulgação para que os clientes respondam a pesquisa de satisfação.
 
 ## Escolha o tamanho do seu desafio
 - **Mínimo**
   - Aplicação Frontend rodando 
 - **Recomendável**
   - Aplicação responsiva
-  - Validação das regras da aplicação no frontend e no backend
-- **Avançado** (não obrigatório)
-  - Autenticação dos usuários adminstrativos (login)
-  - Permissões para os usuários adminstrativos  
-  - Cuidados com a segurança das informações
-  - Relatório(s)
+  - Validação das regras da aplicação no frontend.
 
 
 Não é necessário fazer todos os itens do nível recomendável ou avançado. Você pode fazer todos ou escolher apenas alguns para entregar e apresentar.
@@ -37,7 +32,6 @@ Entre os critérios de avaliação estão:
 - Usabilidade
 - Criatividade
 - Código limpo e organização
-- Lógica de negócio
 - Documentação do projeto (`README.md`)
 
 
