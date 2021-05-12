@@ -1,4 +1,4 @@
-# Teste Full Stack
+# Teste MS Code
 
 Este desafio é uma oportunidade de criar um pequeno projeto seguindo as práticas recomendadas de desenvolvimento, sinta-se à vontade para usar suas próprias preferências de arquitetura de aplicativo (padrões de codificação, organização de código, etc) . Utilize o que se sentir mais confiante.
 
