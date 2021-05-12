@@ -17,13 +17,13 @@ Desenvolver um **Site** de divulgação para que os clientes respondam a pesquis
 
 ## Escolha o tamanho do seu desafio
 - **Mínimo**
-  - Aplicação Frontend rodando 
+  - Aplicação rodando 
 - **Recomendável**
-  - Aplicação responsiva
+  - Aplicação responsiva (adaptável para Celular, Tablet e Computador)
   - Validação das regras da aplicação no frontend.
 
 
-Não é necessário fazer todos os itens do nível recomendável ou avançado. Você pode fazer todos ou escolher apenas alguns para entregar e apresentar.
+Não é necessário fazer todos os itens do nível recomendável. Você pode fazer todos ou escolher apenas alguns para entregar e apresentar.
 
 ## Avaliação
 
@@ -39,7 +39,7 @@ Entre os critérios de avaliação estão:
 ## Orientações gerais
 - As telas da aplicação devem ser criadas de acordo com o **que você entender do contexto**
 - Fique à vontade para utilizar a linguagem, framework ou tecnologias que você quiser. 
-- Você será o responsável por todo o desenvolvimento dessa aplicação (frontend, backend, bancos de dados e o que mais a sua imaginação mandar).
+- Você será o responsável por todo o desenvolvimento dessa aplicação.
 - Se você não entender ou não souber implementar algo que foi solicitado, é importante que você se concentre em entregar **o que você conseguir**. 
 
 
