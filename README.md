@@ -2,7 +2,7 @@
 
 Este desafio é uma oportunidade de criar um pequeno projeto seguindo as práticas recomendadas de desenvolvimento, sinta-se à vontade para usar suas próprias preferências de arquitetura de aplicativo (padrões de codificação, organização de código, etc) . Utilize o que se sentir mais confiante.
 
-Quando finalizar o teste, publique até o dia **02/01** tudo no seu [Github](https://github.com) ou envie um email com o título `[Teste MS Code] Finalizado` para mscode@simonetti.com.br com os arquivos compactados. (Caso utilize o Github, nos envie o link via email)
+Quando finalizar o teste, publique até o dia **22/01** (NOVO PRAZO) tudo no seu [Github](https://github.com) ou envie um email com o título `[Teste MS Code] Finalizado` para mscode@simonetti.com.br com os arquivos compactados. (Caso utilize o Github, nos envie o link via email)
 
 ## Escopo do projeto
 
